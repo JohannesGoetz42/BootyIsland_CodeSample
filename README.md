@@ -4,7 +4,7 @@
 
 This Project is intended as a Code sample and is not the complete Project.
 
-Booty Island is a Game I'm currently working on in my free time. It aims to combine City Builder and Action RPG. 
+Booty Island is a Game I'm currently working on in my free time, based on the Unreal Engine 5 Early Access version. It aims to combine City Builder and Action RPG.
 A Preview video of the work in progress can be found here: https://www.youtube.com/watch?v=sfglRWDc6gs
 
 
